@@ -5,3 +5,12 @@ for(const color of colors){
     reversed.unshift(color);
 }
 console.log(reversed);
+
+
+const brands = ['apple', 'samsung', 'xiami', 'hitachi'];
+const rev = [];
+
+for(const brand of brands){
+    rev.unshift(brand);
+}
+console.log(rev);
