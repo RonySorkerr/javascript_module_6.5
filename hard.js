@@ -15,3 +15,5 @@ const words = sentence.split(' ');
 
 const reversed = words.reverse(' ');
 console.log(reversed);
+
+
